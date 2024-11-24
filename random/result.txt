@@ -1,0 +1,493 @@
+1-item:
+design			2626
+viapackratius			1421
+education			1375
+tools			1290
+art			1047
+web20			919
+webdesign			882
+video			702
+javascript			669
+socialmedia			622
+web			618
+inspiration			557
+programming			550
+writing			528
+ux			518
+development			486
+journalism			465
+twitter			433
+music			367
+technology			354
+resources			307
+internet			298
+research			295
+reference			291
+blog			281
+webdev			271
+ruby			263
+wordpress			261
+2-item:
+design	webdesign			612
+education	tools			451
+design	inspiration			446
+web20	education			441
+web20	tools			439
+design	tools			370
+design	writing			358
+design	viapackratius			333
+design	web			301
+design	art			290
+tools	viapackratius			274
+video	design			254
+design	javascript			250
+design	development			248
+inspiration	webdesign			245
+tools	webdesign			244
+ux	art			244
+design	socialmedia			228
+education	viapackratius			220
+development	programming			216
+socialmedia	tools			207
+design	blog			191
+video	music			188
+design	ux			188
+webdesign	viapackratius			188
+twitter	tools			185
+video	tools			181
+video	art			179
+design	journalism			176
+resources	tools			176
+web	tools			175
+web	webdesign			174
+tools	development			173
+design	programming			173
+education	technology			173
+tools	technology			165
+resources	education			163
+twitter	socialmedia			158
+javascript	development			155
+javascript	viapackratius			155
+wordpress	design			151
+javascript	programming			150
+music	art			149
+web	javascript			149
+socialmedia	viapackratius			148
+journalism	tools			146
+twitter	technology			143
+tools	programming			142
+writing	development			142
+javascript	webdesign			139
+music	design			137
+web20	viapackratius			136
+research	viapackratius			136
+writing	inspiration			135
+video	ux			131
+wordpress	tools			131
+video	education			130
+wordpress	webdesign			129
+twitter	viapackratius			129
+design	education			128
+video	technology			125
+research	tools			124
+video	web			124
+socialmedia	journalism			124
+video	viapackratius			122
+inspiration	javascript			118
+twitter	education			118
+web	viapackratius			118
+design	webdev			118
+inspiration	tools			117
+web	development			116
+design	internet			114
+design	research			114
+music	ux			114
+blog	viapackratius			114
+development	webdesign			113
+video	research			111
+research	education			111
+art	internet			111
+journalism	viapackratius			110
+writing	viapackratius			110
+writing	tools			110
+writing	art			109
+ux	writing			107
+art	viapackratius			107
+technology	viapackratius			105
+video	blog			104
+design	twitter			103
+twitter	web20			103
+design	reference			103
+wordpress	inspiration			103
+socialmedia	webdesign			102
+blog	education			102
+art	blog			102
+video	internet			102
+writing	javascript			101
+music	internet			101
+web	programming			100
+programming	viapackratius			97
+music	web			97
+web20	technology			97
+resources	viapackratius			97
+video	inspiration			96
+art	tools			96
+development	viapackratius			95
+web20	resources			95
+resources	technology			94
+internet	viapackratius			94
+writing	blog			93
+socialmedia	writing			93
+video	journalism			93
+video	ruby			92
+video	javascript			92
+web	technology			92
+design	ruby			92
+socialmedia	research			91
+video	writing			91
+design	technology			91
+web20	research			90
+socialmedia	internet			90
+reference	writing			88
+programming	webdesign			87
+video	development			87
+webdev	web			87
+writing	web			86
+music	blog			83
+journalism	internet			83
+socialmedia	education			82
+socialmedia	web			82
+socialmedia	technology			82
+education	development			82
+webdev	webdesign			80
+video	socialmedia			79
+ruby	javascript			78
+writing	education			78
+ux	research			78
+research	technology			78
+twitter	research			78
+ux	internet			77
+reference	web			76
+video	reference			75
+writing	research			75
+inspiration	webdev			74
+art	education			74
+inspiration	programming			74
+inspiration	development			74
+art	research			73
+music	viapackratius			72
+twitter	art			72
+reference	tools			72
+socialmedia	web20			71
+webdev	viapackratius			71
+blog	inspiration			69
+webdev	javascript			69
+writing	webdesign			69
+journalism	inspiration			69
+video	webdesign			68
+music	education			68
+internet	web			68
+ux	viapackratius			68
+art	web			68
+internet	technology			68
+education	webdesign			68
+video	programming			67
+wordpress	education			67
+music	technology			67
+writing	journalism			67
+wordpress	video			65
+internet	tools			65
+journalism	webdesign			65
+socialmedia	inspiration			65
+twitter	writing			65
+research	web			65
+ux	blog			64
+inspiration	viapackratius			64
+ruby	webdesign			63
+music	javascript			62
+ux	webdesign			62
+twitter	resources			61
+reference	ux			61
+web20	web			61
+ruby	programming			61
+education	javascript			61
+ruby	viapackratius			60
+music	research			60
+education	web			60
+design	web20			60
+wordpress	writing			60
+ux	javascript			60
+webdev	programming			59
+socialmedia	development			59
+webdev	tools			59
+reference	art			58
+reference	journalism			58
+ruby	development			57
+reference	viapackratius			57
+web20	webdesign			57
+internet	research			57
+research	resources			56
+ruby	web			56
+music	tools			55
+reference	development			55
+wordpress	web			55
+ux	tools			54
+research	javascript			54
+reference	blog			54
+web20	internet			54
+writing	webdev			54
+art	technology			53
+journalism	education			53
+ruby	blog			52
+music	socialmedia			52
+reference	education			52
+journalism	web			51
+video	web20			51
+socialmedia	reference			51
+blog	development			50
+wordpress	research			50
+3-item:
+web20	education	tools			263
+design	inspiration	webdesign			242
+design	tools	webdesign			197
+design	webdesign	viapackratius			144
+tools	education	technology			137
+web20	education	viapackratius			136
+design	ux	art			132
+design	socialmedia	tools			130
+resources	education	tools			128
+design	web	webdesign			126
+tools	education	viapackratius			126
+design	writing	development			120
+video	ux	music			114
+design	inspiration	tools			113
+design	writing	inspiration			112
+design	javascript	viapackratius			110
+video	art	music			109
+video	ux	art			105
+design	development	programming			105
+design	web	javascript			105
+design	blog	viapackratius			104
+development	tools	programming			104
+music	ux	art			104
+design	tools	viapackratius			103
+video	design	tools			100
+wordpress	design	webdesign			99
+design	javascript	webdesign			98
+design	wordpress	inspiration			97
+twitter	web20	education			96
+tools	webdesign	viapackratius			95
+design	inspiration	javascript			95
+video	design	web			95
+tools	web	webdesign			95
+tools	resources	viapackratius			95
+design	javascript	programming			94
+resources	education	technology			94
+design	art	blog			94
+twitter	web20	tools			93
+design	writing	blog			93
+video	journalism	design			93
+web20	education	technology			93
+tools	resources	technology			92
+wordpress	tools	webdesign			92
+twitter	education	tools			92
+twitter	tools	technology			91
+music	video	design			91
+music	art	design			91
+design	writing	javascript			90
+writing	art	design			90
+design	web	tools			90
+development	javascript	programming			89
+design	socialmedia	webdesign			89
+technology	tools	viapackratius			89
+tools	research	viapackratius			89
+video	design	viapackratius			89
+twitter	tools	viapackratius			88
+video	tools	technology			88
+design	writing	tools			88
+design	development	webdesign			88
+web20	resources	education			87
+ux	art	viapackratius			87
+design	art	viapackratius			87
+tools	web20	viapackratius			87
+design	internet	viapackratius			87
+video	art	design			86
+tools	web20	technology			86
+tools	inspiration	webdesign			85
+design	javascript	development			85
+design	tools	development			82
+socialmedia	tools	viapackratius			81
+design	socialmedia	journalism			81
+design	writing	viapackratius			81
+video	music	internet			80
+wordpress	design	tools			80
+socialmedia	journalism	viapackratius			79
+design	socialmedia	viapackratius			79
+technology	education	viapackratius			78
+twitter	education	technology			78
+design	video	inspiration			78
+design	art	tools			77
+socialmedia	journalism	tools			77
+ux	art	internet			77
+video	blog	design			77
+video	tools	viapackratius			76
+writing	inspiration	javascript			76
+twitter	technology	viapackratius			75
+web20	resources	tools			74
+research	education	viapackratius			74
+design	writing	web			74
+javascript	inspiration	development			74
+art	blog	viapackratius			74
+resources	education	viapackratius			73
+video	education	technology			73
+video	ux	internet			73
+design	socialmedia	inspiration			73
+journalism	tools	viapackratius			73
+design	inspiration	development			72
+research	education	tools			71
+music	ux	internet			71
+wordpress	inspiration	webdesign			70
+video	ux	design			70
+video	education	tools			70
+wordpress	inspiration	tools			70
+development	tools	webdesign			70
+design	writing	webdesign			69
+socialmedia	tools	webdesign			69
+web20	research	education			69
+design	webdev	javascript			69
+design	ux	viapackratius			68
+socialmedia	internet	viapackratius			68
+design	webdesign	programming			68
+twitter	education	viapackratius			68
+design	journalism	tools			68
+video	design	webdesign			68
+web20	research	tools			67
+video	design	research			67
+tools	education	webdesign			67
+javascript	web	viapackratius			66
+design	journalism	internet			65
+design	web	development			65
+web20	resources	technology			65
+design	socialmedia	writing			65
+design	reference	writing			65
+design	web	viapackratius			65
+journalism	tools	webdesign			65
+development	web	webdesign			65
+design	blog	inspiration			64
+writing	inspiration	webdesign			64
+socialmedia	journalism	internet			64
+video	internet	design			63
+design	blog	education			63
+video	art	research			63
+twitter	research	education			62
+research	education	technology			62
+design	inspiration	webdev			62
+programming	web	viapackratius			62
+video	music	viapackratius			62
+design	journalism	viapackratius			62
+twitter	web20	technology			62
+twitter	web20	viapackratius			61
+technology	research	viapackratius			61
+twitter	resources	education			61
+video	design	javascript			61
+socialmedia	journalism	webdesign			61
+twitter	web20	resources			61
+design	socialmedia	internet			61
+video	journalism	tools			61
+twitter	resources	tools			61
+video	research	viapackratius			61
+journalism	internet	viapackratius			60
+design	ux	writing			60
+music	design	web			60
+design	development	viapackratius			60
+video	music	research			60
+socialmedia	internet	technology			60
+javascript	webdesign	viapackratius			60
+twitter	research	tools			60
+design	ux	research			60
+music	ux	design			60
+design	writing	research			59
+design	webdev	viapackratius			59
+tools	web	development			59
+music	blog	design			59
+twitter	research	technology			59
+development	webdesign	viapackratius			59
+design	inspiration	viapackratius			59
+design	socialmedia	video			58
+writing	tools	webdesign			58
+design	research	viapackratius			58
+music	art	web			58
+journalism	viapackratius	webdesign			58
+development	web	programming			58
+video	internet	research			57
+twitter	resources	technology			57
+writing	javascript	development			57
+writing	ux	art			57
+web20	resources	viapackratius			57
+twitter	socialmedia	technology			57
+video	tools	webdesign			57
+programming	tools	webdesign			57
+twitter	socialmedia	tools			57
+development	javascript	webdesign			57
+twitter	resources	viapackratius			57
+design	art	education			57
+technology	web20	viapackratius			57
+technology	resources	viapackratius			57
+video	socialmedia	tools			56
+javascript	web	development			56
+design	journalism	inspiration			56
+music	internet	web			56
+socialmedia	tools	development			56
+writing	blog	viapackratius			56
+research	education	resources			56
+video	writing	design			56
+wordpress	video	design			55
+video	design	development			55
+wordpress	design	web			55
+design	research	javascript			55
+video	technology	viapackratius			55
+socialmedia	web	tools			55
+ux	art	research			55
+writing	inspiration	development			55
+design	tools	programming			54
+development	webdesign	programming			54
+tools	research	resources			54
+design	ux	webdesign			54
+design	writing	education			54
+music	art	research			54
+design	web	technology			54
+tools	research	technology			54
+video	music	blog			54
+javascript	inspiration	webdesign			54
+web20	research	resources			54
+video	research	web			53
+music	blog	education			53
+video	research	education			53
+webdesign	inspiration	viapackratius			53
+video	design	technology			53
+art	internet	research			53
+design	art	web			53
+design	art	research			53
+socialmedia	internet	tools			53
+webdesign	web	programming			53
+writing	art	viapackratius			53
+video	art	internet			53
+design	inspiration	programming			53
+twitter	socialmedia	viapackratius			52
+design	reference	art			52
+video	tools	development			52
+music	internet	design			52
+tools	web	programming			52
+writing	art	blog			52
+twitter	web20	research			52
+web20	web	tools			51
+music	web	javascript			51
+development	tools	viapackratius			51
+design	blog	development			50
+design	ux	tools			50
+socialmedia	research	tools			50
+design	internet	research			50
+design	ux	blog			50
+video	web	technology			50
+design	research	web			50
+writing	tools	development			50

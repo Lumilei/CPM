@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:5}" host="10.255.53.4" id="76a9cbce-51e6-4bf8-9f27-d58a04e8e420" port="22" customName="remote" nameFormat="CUSTOM" username="jsjxy_7315_01">
+        <option name="customName" value="remote" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

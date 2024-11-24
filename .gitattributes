@@ -1,0 +1,2 @@
+*.tar.bz filter=lfs diff=lfs merge=lfs -text
+baseline/SIGMOD10_Proximity_Pattern/proximity_pattern_code/NmPA-Scalability/vary_labels/* !text !filter !merge !diff
