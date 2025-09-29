@@ -1,0 +1,64 @@
+1	ps
+2	sendmail
+3	New_Attack_1999 (ntfsdos)
+4	portsweep
+5	New_Attack_1999 (sshtrojanInstall)
+6	xsnoop
+7	snmpget
+8	guesstelnet
+9	guessftp
+10	ftpwrite
+11	New_Attack_1999 (yaga)
+12	crashiis
+13	New_Attack_1999 (secret)
+14	smurf
+15	httptunnel
+16	phf
+17	loadmodule
+18	sqlattack
+19	New_Attack_1999 (sechole)
+20	land
+21	mailbomb
+22	processtable
+23	satan
+24	New_Attack_1999 (netcat)
+25	imap
+26	New_Attack_1999 (ppmarcro)
+27	fdformat
+28	New_Attack_1999 (warezmaster)
+29	New_Attack_1999 (arppoison)
+30	ncftp
+31	named
+32	guest
+33	ntinfoscan
+34	ipsweep
+35	teardrop
+36	New_Attack_1999 (netbus)
+37	New_Attack_1999 (sshtrojan)
+38	New_Attack_1999 (dosnuke)
+39	xlock
+40	guesspop
+41	New_Attack_1999 (sshprocesstable)
+42	pod
+43	New_Attack_1999 (warezclient)
+44	apache2
+45	ffbconfig
+46	dict
+47	syslogd
+48	neptune
+49	New_Attack_1999 (ls)
+50	udpstorm
+51	selfping
+52	New_Attack_1999 (tcpreset)
+53	New_Attack_1999 (casesen)
+54	xterm1
+55	back
+56	eject
+57	perl
+58	queso
+59	resetscan
+60	mscan
+61	New_Attack_1999 (illegalsniffer)
+62	xterm
+63	anypw
+64	New_Attack_1999 (framespoofer)
