@@ -49,7 +49,7 @@ This project implements an efficient collaborative pattern mining algorithm that
 ## Installation and Usage
 
 ### Requirements
-- Python 3.7+
+- Python 3.10+
 - Dependencies listed in requirements.txt
 
 ### Installation Steps
